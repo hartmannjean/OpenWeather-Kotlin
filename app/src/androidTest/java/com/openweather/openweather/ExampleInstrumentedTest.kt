@@ -1,4 +1,4 @@
-package com.example.openweather
+package com.openweather.openweather
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

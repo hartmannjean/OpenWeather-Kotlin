@@ -1,4 +1,4 @@
-package com.example.openweather
+package com.openweather.openweather
 
 import android.widget.Toast
 import androidx.compose.foundation.layout.Arrangement

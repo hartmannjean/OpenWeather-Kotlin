@@ -1,4 +1,4 @@
-package com.example.openweather.ui.theme
+package com.openweather.openweather.ui.theme
 
 import android.app.Activity
 import android.os.Build
